@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -102,3 +103,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 # MiPaginaWeb
 Mi página web construida con Gatsby
 >>>>>>> 91d0b9652ea664ff16eab127c4bada278d672be5
+=======
+# Mi_Pagina_Web_con_Gatsby
+Mi Pagina Web construida con Gatsby
+>>>>>>> 8c805c5f996aef42e5a96d3d00f03c8788b2b75a
